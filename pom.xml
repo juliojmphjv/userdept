@@ -54,14 +54,13 @@
 			</plugin>
 		</plugins>
 	</build>
+	
 	<distributionManagement>
-	    <repository>
-	      <uniqueVersion>false</uniqueVersion>
-	      <id>userdept</id>
-	      <name>Userdept Repository</name>
-	      <url>scp://github.com/zizague/userdept</url>
-	      <layout>default</layout>
-	    </repository>
+	   <repository>
+	     <id>github</id>
+	     <name>GitHub Zizague Apache Maven Packages</name>
+	     <url>https://maven.pkg.github.com/zizague/userdept</url>
+	   </repository>
 	</distributionManagement>
 
 </project>
