@@ -5,7 +5,7 @@ application:
   type: workload
   owner: dx-squad
   language: java
-  version: 1.0.0
+  version: 17.0.0
 
 catalog:
   lifecycle: production
