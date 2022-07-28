@@ -58,8 +58,8 @@
 	<distributionManagement>
 	   <repository>
 	     <id>github</id>
-	     <name>GitHub Zizague Apache Maven Packages</name>
-	     <url>https://maven.pkg.github.com/zizague/userdept</url>
+	     <name>GitHub juliojmphjv Apache Maven Packages</name>
+	     <url>https://maven.pkg.github.com/juliojmphjv/userdept</url>
 	   </repository>
 	</distributionManagement>
 
