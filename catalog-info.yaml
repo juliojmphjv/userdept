@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: userdept
+  description: Manage users and departments
+spec:
+  type: website
+  lifecycle: production
+  owner: juliojmphjv
